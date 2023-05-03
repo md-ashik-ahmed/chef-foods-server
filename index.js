@@ -14,15 +14,15 @@ app.get('/', (req, res) =>{
 
 app.get('/foods', (req, res) =>{
     res.send(food);
-})
+});
 
 app.get('/foods/:id', (req, res) =>{
     const id = req.params.id;
     const chef = food?.find((item) => item.id === parseInt(id))
     res.send(chef);
     console.log(chef)
-})
+});
 
 app.listen(port, () =>{
     console.log(`foods api is running on port: ${port}`)
-})
+});
