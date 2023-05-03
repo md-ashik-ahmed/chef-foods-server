@@ -1,0 +1,144 @@
+[
+    {
+        "id": 1,
+        "picture": "https://i.ibb.co/5kP7kSY/Chefs-Table-1.jpg",
+        "name": "Satoshi Nakamoto",
+        "bio": "Satoshi Nakamoto is a master of Japanese cuisine with over 20 years of experience. He has worked in some of the top restaurants in Tokyo and specializes in traditional dishes like sushi and sashimi.",
+        "likes": 125,
+        "recipes_count": 3,
+        "experience": 10,
+        "recipes": [
+            {
+                "recipe_name": "Sushi Rolls",
+                "ingredients": [
+                    "sushi rice",
+                    "nori seaweed",
+                    "avocado",
+                    "cucumber",
+                    "cooked shrimp"
+                ],
+                "cooking_method": "1. Cook the rice and season with rice vinegar. 2. Lay the nori seaweed on a sushi mat. 3. Spread the rice on the nori, leaving a small border at the top. 4. Add the fillings and roll up the sushi. 5. Slice and serve with soy sauce and wasabi.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Beef Teriyaki",
+                "ingredients": [
+                    "beef sirloin",
+                    "soy sauce",
+                    "mirin",
+                    "sake",
+                    "brown sugar"
+                ],
+                "cooking_method": "1. Marinate the beef in the soy sauce, mirin, sake, and brown sugar. 2. Grill the beef until cooked to your liking. 3. Serve with steamed rice and vegetables.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Tempura Shrimp",
+                "ingredients": [
+                    "shrimp",
+                    "flour",
+                    "cornstarch",
+                    "cold water",
+                    "vegetable oil"
+                ],
+                "cooking_method": "1. Mix the flour, cornstarch, and cold water to make a batter. 2. Dip the shrimp in the batter and deep-fry in hot oil until golden brown. 3. Serve with soy sauce and grated daikon.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "picture": "https://i.ibb.co/d6t2yYg/image.jpg",
+        "name": "Satoshi Nakamoto",
+        "bio": "Satoshi Nakamoto is a master of Japanese cuisine with over 20 years of experience. He has worked in some of the top restaurants in Tokyo and specializes in traditional dishes like sushi and sashimi.",
+        "likes": 125,
+        "recipes_count": 10,
+        "experience": 20,
+        "recipes": [
+            {
+                "recipe_name": "Sushi Rolls",
+                "ingredients": [
+                    "sushi rice",
+                    "nori seaweed",
+                    "avocado",
+                    "cucumber",
+                    "cooked shrimp"
+                ],
+                "cooking_method": "1. Cook the rice and season with rice vinegar. 2. Lay the nori seaweed on a sushi mat. 3. Spread the rice on the nori, leaving a small border at the top. 4. Add the fillings and roll up the sushi. 5. Slice and serve with soy sauce and wasabi.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Beef Teriyaki",
+                "ingredients": [
+                    "beef sirloin",
+                    "soy sauce",
+                    "mirin",
+                    "sake",
+                    "brown sugar"
+                ],
+                "cooking_method": "1. Marinate the beef in the soy sauce, mirin, sake, and brown sugar. 2. Grill the beef until cooked to your liking. 3. Serve with steamed rice and vegetables.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Tempura Shrimp",
+                "ingredients": [
+                    "shrimp",
+                    "flour",
+                    "cornstarch",
+                    "cold water",
+                    "vegetable oil"
+                ],
+                "cooking_method": "1. Mix the flour, cornstarch, and cold water to make a batter. 2. Dip the shrimp in the batter and deep-fry in hot oil until golden brown. 3. Serve with soy sauce and grated daikon.",
+                "rating": 4.2
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "picture": "https://i.ibb.co/d6t2yYg/image.jpg",
+        "name": "Satoshi Nakamoto",
+        "bio": "Satoshi Nakamoto is a master of Japanese cuisine with over 20 years of experience. He has worked in some of the top restaurants in Tokyo and specializes in traditional dishes like sushi and sashimi.",
+        "likes": 125,
+        "recipes_count": 10,
+        "experience": 20,
+        "recipes": [
+            {
+                "recipe_name": "Sushi Rolls",
+                "ingredients": [
+                    "sushi rice",
+                    "nori seaweed",
+                    "avocado",
+                    "cucumber",
+                    "cooked shrimp"
+                ],
+                "cooking_method": "1. Cook the rice and season with rice vinegar. 2. Lay the nori seaweed on a sushi mat. 3. Spread the rice on the nori, leaving a small border at the top. 4. Add the fillings and roll up the sushi. 5. Slice and serve with soy sauce and wasabi.",
+                "rating": 4.5
+            },
+            {
+                "recipe_name": "Beef Teriyaki",
+                "ingredients": [
+                    "beef sirloin",
+                    "soy sauce",
+                    "mirin",
+                    "sake",
+                    "brown sugar"
+                ],
+                "cooking_method": "1. Marinate the beef in the soy sauce, mirin, sake, and brown sugar. 2. Grill the beef until cooked to your liking. 3. Serve with steamed rice and vegetables.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Tempura Shrimp",
+                "ingredients": [
+                    "shrimp",
+                    "flour",
+                    "cornstarch",
+                    "cold water",
+                    "vegetable oil"
+                ],
+                "cooking_method": "1. Mix the flour, cornstarch, and cold water to make a batter. 2. Dip the shrimp in the batter and deep-fry in hot oil until golden brown. 3. Serve with soy sauce and grated daikon.",
+                "rating": 4.2
+            }
+        ]
+    }
+    
+]
