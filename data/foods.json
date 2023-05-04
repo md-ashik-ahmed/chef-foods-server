@@ -5,7 +5,7 @@
         "name": "Satoshi Nakamoto",
         "bio": "Chef Satoshi Nakamoto is a master of traditional Japanese cuisine, with over 10 years of experience. He has trained under some of the most renowned chefs in Japan and is known for his delicate and precise preparation techniques.",
         "likes": 121,
-        "recipes_count": 7,
+        "recipes_count": 16,
         "experience": 10,
         "recipes": [
             {
@@ -66,7 +66,7 @@
         "picture": "https://i.ibb.co/qYHwD6y/16.jpg",
         "name": "Amos Carpenter",
         "bio": "Satoshi Nakamoto is a master of Japanese cuisine with over 20 years of experience. He has worked in some of the top restaurants in Tokyo and specializes in traditional dishes like sushi and sashimi.",
-        "likes": 125,
+        "likes": 175,
         "recipes_count": 31,
         "experience": 25,
         "recipes": [
@@ -95,7 +95,7 @@
         "picture": "https://i.ibb.co/mRJgkj1/15.jpg",
         "name": "Mark Velasquez",
         "bio": "Satoshi Nakamoto is a master of Japanese cuisine with over 20 years of experience. He has worked in some of the top restaurants in Tokyo and specializes in traditional dishes like sushi and sashimi.",
-        "likes": 125,
+        "likes": 456,
         "recipes_count": 10,
         "experience": 19,
         "recipes": [
